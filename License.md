@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Connor Tam
+Copyright (c) 2020 Connor Tam / 2024 Joris Kleiber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

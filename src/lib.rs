@@ -2,17 +2,7 @@
 /*!
 The simconnect crate provides rust bindings to retrieve and send information through SimConnect.
 
-Documentation for SimConnect can be found by downloading the SDK for FS2020 or using P3D/FSX SDK documentations for reference (although some of their documentation does not apply for FS2020).
-
-# Setup
-Add this to your `Cargo.toml`
-```toml
-[dependencies]
-simconnect = "0.1"
-```
-
 # Simple Example
-*Note: You must have SimConnect.dll in your current working directory to be able to successfully use SimConnect*
 ```rust
 use simconnect;
 use std::time::Duration;

@@ -60,7 +60,7 @@ fn main() {
                 */
                 conn.transmit_client_event(
                     0,
-                    input_id as u32,
+                    input_id,
                     0,
                     simconnect::SIMCONNECT_GROUP_PRIORITY_HIGHEST,
                     simconnect::SIMCONNECT_EVENT_FLAG_GROUPID_IS_PRIORITY,
